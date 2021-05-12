@@ -43,4 +43,7 @@ in IEEE Access, vol. 8, pp. 227847-227856, 2020, doi: 10.1109/ACCESS.2020.304627
 %
 %   Copyright (c) 2020 by Zhaohui Xue & Mengxue Zhang
 %   zhaohui.xue@hhu.edu.cn & mengxue_zhang@hhu.edu.cn
+%   --------------------------------------
+%   For full package:
+%   --------------------------------------
 %   https://sites.google.com/site/zhaohuixuers/
